@@ -1,7 +1,8 @@
 class Hello{
 	public static void main(String[] args) {
 		System.out.println("Hello");
+		System.out.println("heheehe");
 	}
 
-	public void foo()
+	public void foo(){}
 }
