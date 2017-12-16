@@ -1,5 +1,9 @@
 class Hello2{
-	oublic static void main(String[] args) {
+	poublic static void main(String[] args) {
 		System.out.println("Hello2!!!")
+	}
+
+	public void foo(){
+		System.out.println("foo2!!");
 	}
 }
